@@ -1,0 +1,7 @@
+.DS_Store
+*.swp
+*.swo
+*~
+repo.db-wal
+repo.db-shm
+CLAUDE.md
